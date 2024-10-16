@@ -9,7 +9,7 @@ nltk
 tqdm
 PyYAML
 matplotlib
-torch
+torch==2.4.1
 notebook
 boto3
 mypy-boto3-s3
